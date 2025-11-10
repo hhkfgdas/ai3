@@ -78,7 +78,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     labels[0]:{"texts":["대한민국은 내가 살고있는 나라입니다. 현재 사회에 관련해 문제가 많아요"],
               "videos":["https://www.youtube.com/watch?v=foFFXE4zoFQ"]},
     labels[1]:{"texts":["일본은 4개의 섬으로 이루어진 나라입니다. 세계에서 처음이자 마지막으로 핵폭탄을 맞은 국가입니다."],
-              "videos":[https://www.youtube.com/watch?v=jVpa0JQ4RTQ]},
+              "videos":["https://www.youtube.com/watch?v=jVpa0JQ4RTQ"]},
     labels[2]:{"texts":["중국은 인구가 가장 많은 나라입니다. 미국과의 갈등이 커요"]}, 
 }
 
